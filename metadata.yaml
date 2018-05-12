@@ -1,0 +1,29 @@
+_repo: Seaport-in-VirginiaGeorge-Washington-s-Alexandria_30747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, Gay Montague
+    gutenberg_agent_id: '34792'
+    url: http://www.gutenberg.org/2009/agents/34792
+description: ''
+gutenberg_issued: '2009-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30747'
+  lccn: '73188711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Alexandria (Va.) -- History'
+- !lcsh 'Historic buildings -- Virginia -- Alexandria'
+- !lcsh 'Alexandria (Va.) -- Buildings, structures, etc.'
+title: 'Seaport in Virginia
+
+  George Washington''s Alexandria'
+url: http://www.gutenberg.org/ebooks/30747
