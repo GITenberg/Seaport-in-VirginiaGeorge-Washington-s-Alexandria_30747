@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34792'
     url: http://www.gutenberg.org/2009/agents/34792
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30747#Seaport-in-VirginiaGeorge-Washington-s-Alexandria
 gutenberg_issued: '2009-12-23'
 gutenberg_type: Text
 identifiers:
